@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="729a2c00-9eb0-4834-ac43-0064590e2257" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<a href="https://www.credly.com/badges/729a2c00-9eb0-4834-ac43-0064590e2257/public_url">
+  <img width="400" alt="Google Cybersecurity Professional Certificate" src="https://github.com/user-attachments/assets/07acb348-0c5a-4de3-bf01-d5485ec560e7">
+</a>
