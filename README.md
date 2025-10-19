@@ -1,5 +1,21 @@
 ## Hi there 👋
-👨‍🎓 I’m currently a student at Waseda University
+
+👨‍🎓 I’m currently a student at Waseda University <br/>
+✨ [My portfolio](https://yashi846.github.io/portfolio-frontend/)
+
+<p align="left">
+  <a href="https://github.com/yashi846">
+    <img height="20" src="https://komarev.com/ghpvc/?username=yashi846" />
+  </a>
+</p>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yashi846&theme=radical&rank_icon=github"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashi846&layout=compact&langs_count=8&card_width=320&size_weight=0.5&count_weight=0.5&theme=radical" />
+</a>
+
 <!--
 **yashi846/yashi846** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,16 +30,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<p align="left">
-  <a href="https://github.com/yashi846">
-    <img height="20" src="https://komarev.com/ghpvc/?username=yashi846" />
-  </a>
-</p>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yashi846&theme=radical&rank_icon=github"/>
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashi846&layout=compact&langs_count=8&card_width=320&size_weight=0.5&count_weight=0.5&theme=radical" />
-</a>
